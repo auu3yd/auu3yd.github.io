@@ -12,7 +12,15 @@ My primary interests are in finding .......
 
 I currently serve as the Electrical and Software Director of Virginia Motorsports, UVA's Formula SAE team. 
 
+## Projects
+My projects range from software solutions to mechanical designs. 
 
+### Custom Battery Management
+
+
+My most recent undertaking is a 
+
+## Resumé
 
 Jump To:
 - [Projects](projects.md)
