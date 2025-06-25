@@ -3,10 +3,17 @@ layout: default
 title: Home
 ---
 
-# Welcome to My Website!
+# Mikey Clark
+mikeyclark@virginia.edu
 
-This is the homepage for my new site. I can write content here using Markdown.
+I am an undergraduate at the University of Virginia studying Electrical and Computer Engineering. 
 
-Here are some helpful links:
-- [Schedule](schedule.md)
-- [Assignments](assignments.md)
+My primary interests are in finding .......
+
+I currently serve as the Electrical and Software Director of Virginia Motorsports, UVA's Formula SAE team. 
+
+
+
+Jump To:
+- [Projects](projects.md)
+- [Resumé](resume.md)
